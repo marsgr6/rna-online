@@ -1,12 +1,12 @@
-# ML-online: Técnicas avanzadas de Machine Learning
+# RNAs-online: Redes Neuronales Artificiales
 
 **Descripción del curso:**
 
-Este curso avanzado proporciona una exploración exhaustiva de técnicas de aprendizaje automático avanzadas, centrándose en ensembles, redes neuronales artificiales y técnicas de aprendizaje profundo como LSTM, CNN, GAN y transformers. Los estudiantes aprenderán a diseñar, entrenar y aplicar modelos de aprendizaje automático avanzados para una variedad de aplicaciones del mundo real.
+Este curso avanzado proporciona una exploración exhaustiva de técnicas de aprendizaje automático avanzadas, centrándose en redes neuronales artificiales y técnicas de aprendizaje profundo como LSTM, CNN, GAN y transformers. Los estudiantes aprenderán a diseñar, entrenar y aplicar modelos de redes neuronales avanzados para una variedad de aplicaciones prácticas.
 
 ### Docente
 
-[Mario González](http://investigacion.udla.edu.ec/udla_teams/mario-gonzalez/)
+[Mario González](https://sitios.udla.edu.ec/direccion-investigacion-vinculacion/grupos-de-investigacion/si2lab/)
 
 - [Perfil Google scholar](https://scholar.google.co.uk/citations?user=cmuZCwsAAAAJ&hl=en)
 
