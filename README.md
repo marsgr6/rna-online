@@ -53,20 +53,20 @@ Se propone que, en cada ejercicio a continuación, el estudiante realice de mane
 
 | Semana | Notebook | Temas |
 |--------|----------|-------|
-| 1 | [S1_RNAs_colab.html](https://marsgr6.github.io/presentations/rnas_html/S1/S1_RNAs_colab.html) | **Clasificación:** dataset Breast Cancer. <br> **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
-| 2 | [S2_RNAs_colab.html](https://marsgr6.github.io/presentations/rnas_html/S2/S2_RNAs_colab.html) | Optimización de hiperparámetros en MLP con **cross-validation** y **grid search**, usando los mismos datasets (breast cancer y diabetes). |
-| 3 | [S3_RNAs_LSTM_colab.html](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_LSTM_colab.html) | Modelado de series temporales con **LSTM** (usuarios/visitas web). |
-|   | [S3_RNAs_CNN_colab.html](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a clasificación de imágenes con **Fashion-MNIST**. |
-| 4 | [S4_RNAs_colab.html](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
+| 1 | [Semana 1 – Clasificación y Regresión (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S1/S1_RNAs_colab.html) | **Clasificación:** dataset Breast Cancer. **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
+| 2 | [Semana 2 – Optimización de Hiperparámetros (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S2/S2_RNAs_colab.html) | Optimización de hiperparámetros en MLP con **cross-validation** y **grid search**, usando los mismos datasets (breast cancer y diabetes). |
+| 3 | [Semana 3 – Series Temporales LSTM (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_LSTM_colab.html) | Modelado de series temporales con **LSTM** (usuarios/visitas web). |
+|   | [Semana 3 – CNN Fashion-MNIST (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a la clasificación de imágenes con **Fashion-MNIST**. |
+| 4 | [Semana 4 – Transformers y Autoencoder (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
 
 Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice de manera autónoma un **Análisis Exploratorio de Datos (EDA)** en cada caso, como parte fundamental del flujo de trabajo en ciencia de datos.  
 
 | Semana | Notebook | Temas |
 |--------|----------|-------|
-| 1 | [Clasificación y Regresión (KNIME).pdf](https://marsgr6.github.io/presentations/rnas_html/S1/S1_KNIME.pdf) | **Clasificación:** dataset Breast Cancer. <br> **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
+| 1 | [Clasificación y Regresión (KNIME).pdf](https://marsgr6.github.io/presentations/rnas_html/S1/S1_KNIME.pdf) | **Clasificación:** dataset Breast Cancer. **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
 | 2 | [Optimización de Hiperparámetros (KNIME).pdf](https://marsgr6.github.io/presentations/rnas_html/S2/S2_KNIME.pdf) | Optimización de hiperparámetros en MLP con **cross-validation** y **grid search**, usando los mismos datasets (breast cancer y diabetes). |
 | 3 | [Series Temporales LSTM (Bike Sharing, KNIME).pdf](https://marsgr6.github.io/presentations/rnas_html/S3/S3_KNIME.pdf) | **Series temporales:** predicción de usuarios en el dataset *Bike Sharing* con **LSTM**. |
 |   | [CNN Fashion-MNIST (KNIME).pdf](https://marsgr6.github.io/presentations/rnas_html/S3/S3_KNIME.pdf) | **CNN** aplicadas a clasificación de imágenes con **Fashion-MNIST**. |
-| 4 | [Autoencoder (KNIME).pdf](https://marsgr6.github.io/presentations/rnas_html/S4/S4_KNIME.pdf) | **SAITS y Transformers** para series temporales. <br> **Autoencoder** para detección de fraude. |
+| 4 | [Autoencoder (KNIME).pdf](https://marsgr6.github.io/presentations/rnas_html/S4/S4_KNIME.pdf) | **Autoencoder** para detección de fraude. |
 
 
