@@ -26,3 +26,36 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 | 3      | [Modelado de datos temporales y espaciales](https://marsgr6.github.io/presentations/rnas_html/S3/S3_cnn_yolo.html) | LSTM para series temporales, CNN para detección de objetos. |
 | 4      | [SAITS y transformers para series temporales](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | Aplicación de Transformers al modelado de series temporales: una aproximación moderna para capturar dependencias a largo plazo y patrones secuenciales complejos. SAITS para imputación de valores faltantes en series temporales.|
 |        | [LSTM, transformers, GAN](https://marsgr6.github.io/presentations/rnas_html/S4/S4.2_lstm_transformers_gan.html) | LSTM y transformers para análisis de texto, GAN para aumentación de datos, transfer learning. |
+
+### Ejercicios Colab+Gemini
+
+Se propone que, en cada ejercicio a continuación, el estudiante realice de manera autónoma un **Análisis Exploratorio de Datos (EDA)**, a fin de complementar el material proporcionado y fortalecer la comprensión del proceso de modelado.
+
+### 🔹 EDA en Clasificación
+
+* Verificar **equilibrio de clases** (conteo de instancias por categoría).
+* **Distribuciones por clase** usando histogramas o **KDE plots**.
+* **Boxplots agrupados por el target** para comparar la variación de atributos entre clases.
+* Análisis de **correlación entre variables** y su relación con la clase.
+* Identificación de **outliers** o valores atípicos dentro de cada clase.
+* **Matrices de confusión preliminares** con modelos simples para explorar separabilidad.
+
+### 🔹 EDA en Regresión
+
+* Revisar la **distribución del target** (histograma, KDE, boxplot).
+* Análisis de **correlación (correlation matrix)** entre las variables predictoras y el target.
+* Uso de **pairplots** para explorar relaciones bivariadas.
+* Detección de **outliers** en la variable objetivo y en los predictores.
+* Comprobación de **tendencias o patrones temporales**, en caso de series de tiempo.
+* Verificación de **linealidad** o necesidad de transformaciones (log, sqrt, etc.).
+
+| Semana | Notebook | Temas |
+|--------|----------|-------|
+| 1 | [S1_RNAs_colab.html](https://marsgr6.github.io/presentations/rnas_html/S1/S1_RNAs_colab.html) | **Clasificación:** dataset Breast Cancer. <br> **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
+| 2 | [S2_RNAs_colab.html](https://marsgr6.github.io/presentations/rnas_html/S2/S2_RNAs_colab.html) | Optimización de hiperparámetros en MLP con **cross-validation** y **grid search**, usando los mismos datasets (breast cancer y diabetes). |
+| 3 | [S3_RNAs_LSTM_colab.html](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_LSTM_colab.html) | Modelado de series temporales con **LSTM** (usuarios/visitas web). |
+|   | [S3_RNAs_CNN_colab.html](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a clasificación de imágenes con **Fashion-MNIST**. |
+| 4 | [S4_RNAs_colab.html](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
+
+
+
