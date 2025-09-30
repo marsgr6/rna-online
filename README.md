@@ -27,11 +27,11 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 | 4      | [SAITS y transformers para series temporales](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | Aplicación de Transformers al modelado de series temporales: una aproximación moderna para capturar dependencias a largo plazo y patrones secuenciales complejos. SAITS para imputación de valores faltantes en series temporales.|
 |        | [LSTM, transformers, GAN](https://marsgr6.github.io/presentations/rnas_html/S4/S4.2_lstm_transformers_gan.html) | LSTM y transformers para análisis de texto, GAN para aumentación de datos, transfer learning. |
 
-- Repositorio [**GitHub**](https://github.com/marsgr6/rna-online), del contenido:, ([**descargar**](https://github.com/marsgr6/rna-online/archive/refs/heads/main.zip))
+- Repositorio [GitHub](https://github.com/marsgr6/rna-online), del contenido:, ([descargar](https://github.com/marsgr6/rna-online/archive/refs/heads/main.zip))
 
 ### Ejercicios Colab+Gemini
 
-- [**Tutorial de Colab**](https://marsgr6.github.io/presentations/rnas_html/colab_ai_tutorial.html)
+- [Tutorial de Colab](https://marsgr6.github.io/presentations/rnas_html/colab_ai_tutorial.html)
 
 Se propone que, en cada ejercicio a continuación, el estudiante realice de manera autónoma un **Análisis Exploratorio de Datos (EDA)**, a fin de complementar el material proporcionado y fortalecer la comprensión del proceso de modelado.
 
@@ -61,11 +61,11 @@ Se propone que, en cada ejercicio a continuación, el estudiante realice de mane
 |   | [CNN Fashion-MNIST (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a la clasificación de imágenes con **Fashion-MNIST**. |
 | 4 | [Transformers y Autoencoder (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
 
-- [**Descargar notebooks colab**](https://github.com/marsgr6/rna-online/raw/refs/heads/main/misc/colab_ipynb.zip)
+- [Descargar notebooks colab](https://github.com/marsgr6/rna-online/raw/refs/heads/main/misc/colab_ipynb.zip)
 
 ### Ejercicios KNIME
 
-- [**Instalación de KNIME**](https://marsgr6.github.io/presentations/rnas_html/KNIME_Installation.pdf)
+- [Instalación de KNIME](https://marsgr6.github.io/presentations/rnas_html/KNIME_Installation.pdf)
 
 Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice de manera autónoma un **Análisis Exploratorio de Datos (EDA)** en cada caso, como parte fundamental del flujo de trabajo en ciencia de datos.  
 
@@ -77,7 +77,7 @@ Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice d
 |   | [CNN Fashion-MNIST (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_KNIME.pdf) | **CNN** aplicadas a clasificación de imágenes con **Fashion-MNIST**. |
 | 4 | [Autoencoder (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S4/S4_KNIME.pdf) | **Autoencoder** para detección de fraude. |
 
-- [**Descargar workflows KNIME**](https://udlaec-my.sharepoint.com/:f:/g/personal/mario_gonzalez_rodriguez_udla_edu_ec/EvtXdO57yQ5JnuayR5xJTk0BsZXPg1ZA22iYY2wkGgIT5A?e=8I8cFT)
+- [Descargar workflows KNIME](https://udlaec-my.sharepoint.com/:f:/g/personal/mario_gonzalez_rodriguez_udla_edu_ec/EvtXdO57yQ5JnuayR5xJTk0BsZXPg1ZA22iYY2wkGgIT5A?e=8I8cFT)
 
 ## Fuentes y Recursos (KNIME)
 
