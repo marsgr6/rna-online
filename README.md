@@ -29,6 +29,8 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 
 ### Ejercicios Colab+Gemini
 
+- [**Tutorial de Colab**](https://marsgr6.github.io/presentations/rnas_html/colab_ai_tutorial.html)
+
 Se propone que, en cada ejercicio a continuación, el estudiante realice de manera autónoma un **Análisis Exploratorio de Datos (EDA)**, a fin de complementar el material proporcionado y fortalecer la comprensión del proceso de modelado.
 
 ### 🔹 EDA en Clasificación
