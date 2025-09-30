@@ -59,6 +59,10 @@ Se propone que, en cada ejercicio a continuación, el estudiante realice de mane
 |   | [Semana 3 – CNN Fashion-MNIST (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a la clasificación de imágenes con **Fashion-MNIST**. |
 | 4 | [Semana 4 – Transformers y Autoencoder (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
 
+### Ejercicios KNIME
+
+- [**Instalación de KNIME**]([https://marsgr6.github.io/presentations/rnas_html/colab_ai_tutorial.html](https://marsgr6.github.io/presentations/rnas_html/KNIME_Installation.pdf))
+
 Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice de manera autónoma un **Análisis Exploratorio de Datos (EDA)** en cada caso, como parte fundamental del flujo de trabajo en ciencia de datos.  
 
 | Semana | Notebook | Temas |
@@ -69,4 +73,10 @@ Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice d
 |   | [CNN Fashion-MNIST (KNIME).pdf](https://marsgr6.github.io/presentations/rnas_html/S3/S3_KNIME.pdf) | **CNN** aplicadas a clasificación de imágenes con **Fashion-MNIST**. |
 | 4 | [Autoencoder (KNIME).pdf](https://marsgr6.github.io/presentations/rnas_html/S4/S4_KNIME.pdf) | **Autoencoder** para detección de fraude. |
 
+## Fuentes y Recursos (KNIME)
 
+### Artículos Científicos
+- Villarroel Ordenes, F., & Silipo, R. (2021). Machine learning for marketing on the KNIME Hub: The development of a live repository for marketing applications. *Journal of Business Research*, 137(1), 393-410. DOI: [10.1016/j.jbusres.2021.08.036](https://doi.org/10.1016/j.jbusres.2021.08.036) | [KNIME Hub Space](https://hub.knime.com/knime/spaces/Machine%20Learning%20and%20Marketing/~JyadcetnSt5U1vcw/)
+
+### Libros
+- Melcher, K., & Silipo, R. (2021). *Codeless Deep Learning with KNIME*. Packt Publishing. [KNIME Hub Space](https://hub.knime.com/kathrin/spaces/Codeless%20Deep%20Learning%20with%20KNIME/~yMp8GBkT0Xwzx5X2/)
