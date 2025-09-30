@@ -61,11 +61,11 @@ Se propone que, en cada ejercicio a continuación, el estudiante realice de mane
 |   | [CNN Fashion-MNIST (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a la clasificación de imágenes con **Fashion-MNIST**. |
 | 4 | [Transformers y Autoencoder (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
 
-[**Descargar notebooks colab**](https://github.com/marsgr6/rna-online/raw/refs/heads/main/misc/colab_ipynb.zip)
+- [**Descargar notebooks colab**](https://github.com/marsgr6/rna-online/raw/refs/heads/main/misc/colab_ipynb.zip)
 
 ### Ejercicios KNIME
 
-- [**Instalación de KNIME**]([https://marsgr6.github.io/presentations/rnas_html/colab_ai_tutorial.html](https://marsgr6.github.io/presentations/rnas_html/KNIME_Installation.pdf))
+- [**Instalación de KNIME**](https://marsgr6.github.io/presentations/rnas_html/KNIME_Installation.pdf)
 
 Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice de manera autónoma un **Análisis Exploratorio de Datos (EDA)** en cada caso, como parte fundamental del flujo de trabajo en ciencia de datos.  
 
@@ -77,7 +77,7 @@ Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice d
 |   | [CNN Fashion-MNIST (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_KNIME.pdf) | **CNN** aplicadas a clasificación de imágenes con **Fashion-MNIST**. |
 | 4 | [Autoencoder (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S4/S4_KNIME.pdf) | **Autoencoder** para detección de fraude. |
 
-[**Descargar workflows KNIME**](https://udlaec-my.sharepoint.com/:f:/g/personal/mario_gonzalez_rodriguez_udla_edu_ec/EvtXdO57yQ5JnuayR5xJTk0BsZXPg1ZA22iYY2wkGgIT5A?e=8I8cFT)
+- [**Descargar workflows KNIME**](https://udlaec-my.sharepoint.com/:f:/g/personal/mario_gonzalez_rodriguez_udla_edu_ec/EvtXdO57yQ5JnuayR5xJTk0BsZXPg1ZA22iYY2wkGgIT5A?e=8I8cFT)
 
 ## Fuentes y Recursos (KNIME)
 
