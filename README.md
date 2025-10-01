@@ -33,26 +33,6 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 
 - [Tutorial de Colab](https://marsgr6.github.io/presentations/rnas_html/colab_ai_tutorial.html)
 
-Se propone que, en cada ejercicio a continuación, el estudiante realice de manera autónoma un **Análisis Exploratorio de Datos (EDA)**, a fin de complementar el material proporcionado y fortalecer la comprensión del proceso de modelado.
-
-### 🔹 EDA en Clasificación
-
-* Verificar **equilibrio de clases** (conteo de instancias por categoría).
-* **Distribuciones por clase** usando histogramas o **KDE plots**.
-* **Boxplots agrupados por el target** para comparar la variación de atributos entre clases.
-* Análisis de **correlación entre variables** y su relación con la clase.
-* Identificación de **outliers** o valores atípicos dentro de cada clase.
-* **Matrices de confusión preliminares** con modelos simples para explorar separabilidad.
-
-### 🔹 EDA en Regresión
-
-* Revisar la **distribución del target** (histograma, KDE, boxplot).
-* Análisis de **correlación (correlation matrix)** entre las variables predictoras y el target.
-* Uso de **pairplots** para explorar relaciones bivariadas.
-* Detección de **outliers** en la variable objetivo y en los predictores.
-* Comprobación de **tendencias o patrones temporales**, en caso de series de tiempo.
-* Verificación de **linealidad** o necesidad de transformaciones (log, sqrt, etc.).
-
 | Semana | Notebook | Temas |
 |--------|----------|-------|
 | 1 | [Clasificación y Regresión (Colab)](https://marsgr6.github.io/presentations/rnas_html/S1/S1_RNAs_colab.html) | **Clasificación:** dataset Breast Cancer. **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
@@ -88,3 +68,21 @@ Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice d
 
 ### Libros
 - Melcher, K., & Silipo, R. (2021). *Codeless Deep Learning with KNIME*. Packt Publishing. [KNIME Hub Space](https://hub.knime.com/kathrin/spaces/Codeless%20Deep%20Learning%20with%20KNIME/~yMp8GBkT0Xwzx5X2/)
+
+Perfecto 👌, entonces aquí te dejo una versión **con nombre genérico de “Ejercicios Prácticos”** (no solo KNIME), usando los mismos links y la estructura `/S1/Tarea_Semana_1.html`, `/S2/Tarea_Semana_2.html`, etc.:
+
+
+# 📘 Ejercicios Prácticos (Tareas)
+
+| Semana | Enunciado                                                                                  | Temas                                                                                                                                                                                                                               |
+| ------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | [Clasificación y/o Regresión.](https://marsgr6.github.io/presentations/rnas_html/S1/Tarea_semana_1.html) | Clasificación con dataset **Breast Cancer**. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
+| 2      | [Optimización de Hiperparámetros](https://marsgr6.github.io/presentations/rnas_html/S2/Tarea_semana_2.html) | Uso de **cross-validation** y **grid search** en MLP. Aplicación al datasets **Breast Cancer** |
+| 3      | [CNN on MNIST digits y/o Series Temporales con LSTM](https://marsgr6.github.io/presentations/rnas_html/S3/Tarea_semana_3.html) | **CNN para clasificar imágenes**: MNIST digits dataset. **Series Temporales con LSTM:** Construcción de un modelo LSTM y análisis de resultados.                                                                       |
+| 4      | [SAITS, Transformers y Sentiment Analysis](https://marsgr6.github.io/presentations/rnas_html/S4/Tarea_semana_4.html) | **SAITS y Transformers** para series temporales. Implementación de un **clasificador de sentimientos** en KNIME.                                                                                                                  |
+
+📂 **Recursos adicionales (ejemplos)**
+
+* [Descargar datasets y workflows](https://udlaec-my.sharepoint.com/:f:/g/personal/mario_gonzalez_rodriguez_udla_edu_ec/EvtXdO57yQ5JnuayR5xJTk0BsZXPg1ZA22iYY2wkGgIT5A?e=8I8cFT)
+* [Descargar notebooks colab](https://github.com/marsgr6/rna-online/raw/refs/heads/main/misc/colab_ipynb.zip)
+
