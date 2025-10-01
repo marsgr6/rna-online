@@ -84,9 +84,7 @@ Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice d
 ### Artículos Científicos
 - Villarroel Ordenes, F., & Silipo, R. (2021). Machine learning for marketing on the KNIME Hub: The development of a live repository for marketing applications. *Journal of Business Research*, 137(1), 393-410. DOI: [10.1016/j.jbusres.2021.08.036](https://doi.org/10.1016/j.jbusres.2021.08.036), [KNIME Hub Space](https://hub.knime.com/knime/spaces/Machine%20Learning%20and%20Marketing/~JyadcetnSt5U1vcw/)
 
-### 📌 Cita recomendada (formato general)
-
-KNIME Hub – Example Workflows Repository. Disponible en: [https://hub.knime.com/knime/spaces/Examples/~h7x1z5Px5dNWE24v/](https://hub.knime.com/knime/spaces/Examples/~h7x1z5Px5dNWE24v/)
+- KNIME Hub – Example Workflows Repository. Disponible en: [https://hub.knime.com/knime/spaces/Examples/~h7x1z5Px5dNWE24v/](https://hub.knime.com/knime/spaces/Examples/~h7x1z5Px5dNWE24v/)
 
 ### Libros
 - Melcher, K., & Silipo, R. (2021). *Codeless Deep Learning with KNIME*. Packt Publishing. [KNIME Hub Space](https://hub.knime.com/kathrin/spaces/Codeless%20Deep%20Learning%20with%20KNIME/~yMp8GBkT0Xwzx5X2/)
