@@ -14,7 +14,7 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 
 - [Perfil Google scholar](https://scholar.google.co.uk/citations?user=cmuZCwsAAAAJ&hl=en)
 
-### Contenido
+## Contenido
 
 | Semana | Notebook                          | Temas| 
 | :---:  | :---------------------------------------------   | :---------------------------------------------   |
@@ -29,7 +29,7 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 
 - Repositorio [GitHub](https://github.com/marsgr6/rna-online), del contenido:, ([descargar](https://github.com/marsgr6/rna-online/archive/refs/heads/main.zip))
 
-### Ejercicios Colab+Gemini
+## Ejercicios Colab+Gemini
 
 - [Tutorial de Colab](https://marsgr6.github.io/presentations/rnas_html/colab_ai_tutorial.html)
 
@@ -43,7 +43,7 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 
 - [Descargar notebooks colab](https://github.com/marsgr6/rna-online/raw/refs/heads/main/misc/colab_ipynb.zip)
 
-### Ejercicios KNIME
+## Ejercicios KNIME
 
 - [Instalación de KNIME](https://marsgr6.github.io/presentations/rnas_html/KNIME_Installation.pdf)
 
@@ -59,7 +59,7 @@ Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice d
 
 - [Descargar datos y workflows KNIME](https://udlaec-my.sharepoint.com/:f:/g/personal/mario_gonzalez_rodriguez_udla_edu_ec/EvtXdO57yQ5JnuayR5xJTk0BsZXPg1ZA22iYY2wkGgIT5A?e=8I8cFT)
 
-## Fuentes y Recursos (KNIME)
+### Fuentes y Recursos (KNIME)
 
 ### Artículos Científicos
 - Villarroel Ordenes, F., & Silipo, R. (2021). Machine learning for marketing on the KNIME Hub: The development of a live repository for marketing applications. *Journal of Business Research*, 137(1), 393-410. DOI: [10.1016/j.jbusres.2021.08.036](https://doi.org/10.1016/j.jbusres.2021.08.036), [KNIME Hub Space](https://hub.knime.com/knime/spaces/Machine%20Learning%20and%20Marketing/~JyadcetnSt5U1vcw/)
@@ -72,7 +72,7 @@ Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice d
 Perfecto 👌, entonces aquí te dejo una versión **con nombre genérico de “Ejercicios Prácticos”** (no solo KNIME), usando los mismos links y la estructura `/S1/Tarea_Semana_1.html`, `/S2/Tarea_Semana_2.html`, etc.:
 
 
-# 📘 Ejercicios Prácticos (Tareas)
+## 📘 Ejercicios Prácticos (Tareas)
 
 | Semana | Enunciado                                                                                  | Temas                                                                                                                                                                                                                               |
 | ------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
