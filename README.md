@@ -27,7 +27,7 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 | 4      | [SAITS y transformers para series temporales](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | Aplicación de Transformers al modelado de series temporales: una aproximación moderna para capturar dependencias a largo plazo y patrones secuenciales complejos. SAITS para imputación de valores faltantes en series temporales.|
 |        | [LSTM, transformers, GAN](https://marsgr6.github.io/presentations/rnas_html/S4/S4.2_lstm_transformers_gan.html) | LSTM y transformers para análisis de texto, GAN para aumentación de datos, transfer learning. |
 
-- Repositorio [GitHub](https://github.com/marsgr6/rna-online), del contenido:, ([descargar](https://github.com/marsgr6/rna-online/archive/refs/heads/main.zip))
+- Repositorio [GitHub](https://github.com/marsgr6/rna-online), del contenido: ([descargar](https://github.com/marsgr6/rna-online/archive/refs/heads/main.zip))
 
 ## Ejercicios Colab+Gemini
 
