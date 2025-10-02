@@ -69,9 +69,6 @@ Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice d
 ### Libros
 - Melcher, K., & Silipo, R. (2021). *Codeless Deep Learning with KNIME*. Packt Publishing. [KNIME Hub Space](https://hub.knime.com/kathrin/spaces/Codeless%20Deep%20Learning%20with%20KNIME/~yMp8GBkT0Xwzx5X2/)
 
-Perfecto 👌, entonces aquí te dejo una versión **con nombre genérico de “Ejercicios Prácticos”** (no solo KNIME), usando los mismos links y la estructura `/S1/Tarea_Semana_1.html`, `/S2/Tarea_Semana_2.html`, etc.:
-
-
 ## 📘 Ejercicios Prácticos (Tareas)
 
 | Semana | Enunciado                                                                                  | Temas                                                                                                                                                                                                                               |
