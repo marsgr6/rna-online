@@ -35,7 +35,7 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 
 | Semana | Notebook | Temas |
 |--------|----------|-------|
-| 1 | [Clasificación y Regresión (Colab)](https://marsgr6.github.io/presentations/rnas_html/S1/S1_RNAs_colab.html) | **Clasificación:** dataset Breast Cancer. **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
+| 1 | [Clasificación y Regresión (Colab)](https://marsgr6.github.io/presentations/rnas_html/S1/S1_RNAs_colab.html) | **Clasificación:** dataset Wine. **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
 | 2 | [Optimización de Hiperparámetros (Colab).html](https://marsgr6.github.io/presentations/rnas_html/S2/S2_RNAs_colab.html) | Optimización de hiperparámetros en MLP con **cross-validation** y **grid search**, usando los mismos datasets (breast cancer y diabetes). |
 | 3 | [Series Temporales LSTM (Colab)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_LSTM_colab.html) | Modelado de series temporales con **LSTM** (usuarios/visitas web). |
 |   | [CNN Fashion-MNIST (Colab)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a la clasificación de imágenes con **Fashion-MNIST**. |
@@ -47,7 +47,7 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 
 - [Instalación de KNIME](https://marsgr6.github.io/presentations/rnas_html/KNIME_Installation.pdf)
 
-Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice de manera autónoma un **Análisis Exploratorio de Datos (EDA)** en cada caso, como parte fundamental del flujo de trabajo en ciencia de datos.  
+Ejercicios prácticos en **KNIME (PDF)**.  
 
 | Semana | Notebook | Temas |
 |--------|----------|-------|
@@ -69,7 +69,7 @@ Ejercicios prácticos en **KNIME (PDF)**. Se sugiere que el estudiante realice d
 ### Libros
 - Melcher, K., & Silipo, R. (2021). *Codeless Deep Learning with KNIME*. Packt Publishing. [KNIME Hub Space](https://hub.knime.com/kathrin/spaces/Codeless%20Deep%20Learning%20with%20KNIME/~yMp8GBkT0Xwzx5X2/)
 
-## 📘 Ejercicios Prácticos (Tareas)
+## 📘 Ejercicios Prácticos Autónomos (Tareas)
 
 | Semana | Enunciado                                                                                  | Temas                                                                                                                                                                                                                               |
 | ------ | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
