@@ -42,8 +42,8 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 | 1 | [Clasificación y Regresión (Colab)](https://marsgr6.github.io/presentations/rnas_html/S1/S1_RNAs_colab.html) | **Clasificación:** dataset Wine. **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
 | 2 | [Optimización de Hiperparámetros (Colab)](https://marsgr6.github.io/presentations/rnas_html/S2/S2_RNAs_colab.html) | Optimización de hiperparámetros en MLP con **cross-validation** y **grid search**, usando los mismos datasets (breast cancer y diabetes). |
 | 3 | [Series Temporales LSTM (Colab)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_LSTM_colab.html) | Modelado de series temporales con **LSTM** (usuarios/visitas web). |
-|   | [CNN Fashion-MNIST (Colab)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a la clasificación de imágenes con **Fashion-MNIST**. |
-| 4 | [Transformers y Autoencoder (Colab)](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
+| 4 | [CNN Fashion-MNIST (Colab)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a la clasificación de imágenes con **Fashion-MNIST**. |
+|   | [Transformers y Autoencoder (Colab)](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
 
 - [Descargar notebooks colab](https://github.com/marsgr6/rna-online/raw/refs/heads/main/misc/colab_ipynb.zip)
 
@@ -58,8 +58,8 @@ Ejercicios prácticos en **KNIME (PDF)**.
 | 1 | [Clasificación y Regresión (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S1/S1_KNIME.pdf) | **Clasificación:** dataset Breast Cancer. **Regresión:** dataset Diabetes. Introducción a redes neuronales, función de pérdida y entrenamiento de perceptrones multicapa. |
 | 2 | [Optimización de Hiperparámetros (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S2/S2_KNIME.pdf) | Optimización de hiperparámetros en MLP con **cross-validation** y **grid search**, usando los mismos datasets (breast cancer y diabetes). |
 | 3 | [Series Temporales LSTM (Bike Sharing, KNIME)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_KNIME.pdf) | **Series temporales:** predicción de usuarios en el dataset *Bike Sharing* con **LSTM**. |
-|   | [CNN Fashion-MNIST (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_KNIME.pdf) | **CNN** aplicadas a clasificación de imágenes con **Fashion-MNIST**. |
-| 4 | [Autoencoder (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S4/S4_KNIME.pdf) | **Autoencoder** para detección de fraude. |
+| 4 | [CNN Fashion-MNIST (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_KNIME.pdf) | **CNN** aplicadas a clasificación de imágenes con **Fashion-MNIST**. |
+|   | [Autoencoder (KNIME)](https://marsgr6.github.io/presentations/rnas_html/S4/S4_KNIME.pdf) | **Autoencoder** para detección de fraude. |
 
 - [Descargar datos y workflows KNIME](https://udlaec-my.sharepoint.com/:f:/g/personal/mario_gonzalez_rodriguez_udla_edu_ec/EvtXdO57yQ5JnuayR5xJTk0BsZXPg1ZA22iYY2wkGgIT5A?e=8I8cFT)
 
