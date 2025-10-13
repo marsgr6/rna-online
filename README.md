@@ -29,7 +29,7 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 
 - Resumen ([mapas conceptuales](https://github.com/marsgr6/rna-online/tree/main/misc/mapas)) de los modelos más comunes de redes neuronales.
   
-- Repositorio [GitHub](https://github.com/marsgr6/rna-online), del contenido: ([descargar](https://github.com/marsgr6/rna-online/archive/refs/heads/main.zip))
+- Repositorio [GitHub](https://github.com/marsgr6/rna-online) del contenido ([descargar](https://github.com/marsgr6/rna-online/archive/refs/heads/main.zip))
 
 - [Tinker With a Neural Network Right in Your Browser](https://playground.tensorflow.org/)
 
