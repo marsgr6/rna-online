@@ -2,11 +2,11 @@
 
 **Descripción del curso:**
 
-Este curso avanzado proporciona una exploración exhaustiva de técnicas de aprendizaje automático avanzadas, centrándose en redes neuronales artificiales y técnicas de aprendizaje profundo como LSTM, CNN, GAN y transformers. Los estudiantes aprenderán a diseñar, entrenar y aplicar modelos de redes neuronales avanzados para una variedad de aplicaciones prácticas.
+Este curso introductorio proporciona una exploración exhaustiva de técnicas de aprendizaje automático, centrándose en redes neuronales artificiales y técnicas de aprendizaje profundo como LSTM, CNN, GAN y transformers. Los estudiantes aprenderán a diseñar, entrenar y aplicar modelos de redes neuronales avanzados para una variedad de aplicaciones prácticas.
 
 El curso está orientado al uso de **Python** con **TensorFlow/Keras** y **PyTorch**, los frameworks más utilizados en la industria y la academia para aprendizaje profundo. Se recomienda trabajar en **Google Colab**, complementado con asistentes de IA como **Gemini**, que facilitan la escritura y depuración de código.
 
-Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin de ofrecer una perspectiva visual y de flujo de trabajo que ayude a comprender de manera intuitiva las etapas de análisis de datos y modelado.
+Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin de ofrecer una perspectiva visual y de flujo de trabajo que ayude a comprender de manera intuitiva las etapas de modelado.
 
 ### Docente
 
@@ -27,7 +27,11 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 | 4      | [SAITS y transformers para series temporales](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | Aplicación de Transformers al modelado de series temporales: una aproximación moderna para capturar dependencias a largo plazo y patrones secuenciales complejos. SAITS para imputación de valores faltantes en series temporales.|
 |        | [LSTM, transformers, GAN](https://marsgr6.github.io/presentations/rnas_html/S4/S4.2_lstm_transformers_gan.html) | LSTM y transformers para análisis de texto, GAN para aumentación de datos, transfer learning. |
 
+- Resumen ([mapas conceptuales](https://github.com/marsgr6/rna-online/tree/main/misc/mapas)) de los modelos más comunes de redes neuronales.
+  
 - Repositorio [GitHub](https://github.com/marsgr6/rna-online), del contenido: ([descargar](https://github.com/marsgr6/rna-online/archive/refs/heads/main.zip))
+
+- [Tinker With a Neural Network Right in Your Browser](https://playground.tensorflow.org/)
 
 ## Ejercicios Colab+Gemini
 
