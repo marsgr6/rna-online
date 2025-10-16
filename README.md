@@ -33,6 +33,10 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 
 - [Tinker With a Neural Network Right in Your Browser](https://playground.tensorflow.org/)
 
+- [NN-SVG](https://alexlenail.me/NN-SVG/)
+
+- [Netron](https://netron.app/)
+
 ## Ejercicios Colab+Gemini
 
 - [Tutorial de Colab](https://marsgr6.github.io/presentations/rnas_html/colab_ai_tutorial.html)
@@ -82,8 +86,13 @@ Ejercicios prácticos en **KNIME (PDF)**.
 | 3      | [CNN on MNIST digits y/o Series Temporales con LSTM](https://marsgr6.github.io/presentations/rnas_html/S3/Tarea_semana_3.html) | **CNN para clasificar imágenes**: MNIST digits dataset. **Series Temporales con LSTM:** Construcción de un modelo LSTM y análisis de resultados.                                                                       |
 | 4      | [SAITS, Transformers y Sentiment Analysis](https://marsgr6.github.io/presentations/rnas_html/S4/Tarea_semana_4.html) | **SAITS y Transformers** para series temporales. Implementación de un **clasificador de sentimientos** en KNIME.                                                                                                                  |
 
-📂 **Recursos adicionales (ejemplos)**
+**Ejemplos**
 
 * [Descargar datasets y workflows](https://udlaec-my.sharepoint.com/:f:/g/personal/mario_gonzalez_rodriguez_udla_edu_ec/EvtXdO57yQ5JnuayR5xJTk0BsZXPg1ZA22iYY2wkGgIT5A?e=8I8cFT)
 * [Descargar notebooks colab](https://github.com/marsgr6/rna-online/raw/refs/heads/main/misc/colab_ipynb.zip)
+
+## 📂 Recursos adicionales
+
+- [Modern Computer Vision with PyTorch](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E)
+- [Data Science Interactive with Python](https://github.com/GeostatsGuy/DataScienceInteractivePython/tree/main)
 
