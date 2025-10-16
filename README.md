@@ -94,5 +94,6 @@ Ejercicios prácticos en **KNIME (PDF)**.
 ## 📂 Recursos adicionales
 
 - [Modern Computer Vision with PyTorch](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E)
+- [ANN ML Demo Book](https://geostatsguy.github.io/MachineLearningDemos_Book/MachineLearning_ANN.html)
 - [Data Science Interactive with Python](https://github.com/GeostatsGuy/DataScienceInteractivePython/tree/main)
 
