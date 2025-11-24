@@ -36,6 +36,7 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 - [NN-SVG](https://alexlenail.me/NN-SVG/)
 
 - [Netron](https://netron.app/)
+- [PerceptiLabs](https://github.com/PerceptiLabs/PerceptiLabs): An intuitive way to build models.
 
 ## Ejercicios Colab+Gemini
 
