@@ -98,4 +98,7 @@ Ejercicios prácticos en **KNIME (PDF)**.
 - Pyrcz, M.J., 2024, Applied Machine Learning in Python: A Hands-on Guide with Code. Zenodo. doi:10.5281/zenodo.15169138, [e-book](https://geostatsguy.github.io/MachineLearningDemos_Book/MachineLearning_ANN.html)
 - [Neural networks from scratch - Animations](https://nnfs.io/neural_network_animations)
 - [Data Science Interactive with Python](https://github.com/GeostatsGuy/DataScienceInteractivePython/tree/main)
+- [Standford CS231n: Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+- [Backpropagation In Convolutional Neural Networks](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
+- [Convolutional Neural Networks backpropagation: from intuition to derivation](https://grzegorzgwardys.wordpress.com/2016/04/22/8/)
 
