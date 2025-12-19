@@ -8,6 +8,12 @@ El curso está orientado al uso de **Python** con **TensorFlow/Keras** y **PyTor
 
 Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin de ofrecer una perspectiva visual y de flujo de trabajo que ayude a comprender de manera intuitiva las etapas de modelado.
 
+### ✅ **Nota Importante**
+
+📚 **TensorFlow**, **Keras** y **PyTorch** son librerías de aprendizaje profundo **estado del arte**, con un desarrollo muy activo y actualizaciones frecuentes.  
+⚠️ Debido a esto, el código puede no ejecutarse correctamente en versiones más recientes de estas librerías.  
+🤖 **Recomendación:** Si encuentras incompatibilidades, utiliza herramientas de **IA generativa** para adaptar y actualizar el código según la versión instalada.
+
 ### Docente
 
 [Mario González](https://sitios.udla.edu.ec/direccion-investigacion-vinculacion/grupos-de-investigacion/si2lab/)
