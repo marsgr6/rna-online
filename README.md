@@ -54,7 +54,7 @@ Adicionalmente, se incluyen **ejercicios introductorios en KNIME**, con el fin d
 | 2 | [Optimización de Hiperparámetros (Colab)](https://marsgr6.github.io/presentations/rnas_html/S2/S2_RNAs_colab.html) | Optimización de hiperparámetros en MLP con **cross-validation** y **grid search**, usando los mismos datasets (breast cancer y diabetes). |
 | 3 | [Series Temporales LSTM (Colab)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_LSTM_colab.html) | Modelado de series temporales con **LSTM** (usuarios/visitas web). |
 |  | [CNN Fashion-MNIST (Colab)](https://marsgr6.github.io/presentations/rnas_html/S3/S3_RNAs_CNN_colab.html) | **CNN** aplicadas a la clasificación de imágenes con **Fashion-MNIST**. |
-| 4 | [Transformers y Autoencoder (Colab)](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
+| 4 | [Transformers y auto-atención (Colab)](https://marsgr6.github.io/presentations/rnas_html/S4/S4.1_saits_transformers_ts.html) | **SAITS y Transformers** para series temporales: imputación de valores faltantes y modelado de dependencias complejas. |
 
 - [Descargar notebooks colab](https://github.com/marsgr6/rna-online/raw/refs/heads/main/misc/colab_ipynb.zip)
 
