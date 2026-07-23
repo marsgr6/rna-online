@@ -100,6 +100,7 @@ Ejercicios prácticos en **KNIME (PDF)**.
 
 ## 📂 Recursos adicionales
 
+- Bernhard Mehlig, [Machine learning with neural networks](https://arxiv.org/pdf/1901.05639)
 - [Modern Computer Vision with PyTorch](https://github.com/PacktPublishing/Modern-Computer-Vision-with-PyTorch-2E)
 - Pyrcz, M.J., 2024, Applied Machine Learning in Python: A Hands-on Guide with Code. Zenodo. doi:10.5281/zenodo.15169138, [e-book](https://geostatsguy.github.io/MachineLearningDemos_Book/MachineLearning_ANN.html)
 - [Neural networks from scratch - Animations](https://nnfs.io/neural_network_animations)
